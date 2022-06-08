@@ -1,17 +1,11 @@
 
 
 # Project Name
-NAIROBI INNOVATION WEEK
-> Description of the project
-This is a two page website project where i have built a website for a conference carried out in kenya.
+To Do List App
 
 ## Built With
 
 - html, Css, javascript.
-
-## Live Demo (if available)
-
-[Live Demo Link](https://www.loom.com/share/f44065910d054fefb3f1ed0e4260e6bb)
 
 
 ## Getting Started
@@ -25,7 +19,7 @@ basic knowledge on html, javascript and css.
 
 ### Set Up
 With git, clone the code to your machine, or download the files directly.
-git clone [link](https://tingamapuro04.github.io/Nairobi-Innovation-Week/)
+git clone [link](https://github.com/tingamapuro04/mobutu-web)
 Once the files are on your machine, open your a terminal of your choice (git bash preffered) and change the directory to Nairobi-Innovation-Week.
 Once done, if your are using vscode the run (code .) to open the folder on a new window of visual studio code
 
